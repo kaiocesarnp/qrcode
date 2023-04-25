@@ -39,6 +39,7 @@ img.save('qr_code.png')
 
 # img = qr.make_image(fill_color = "black", back_color = "white"): cria uma imagem a partir do QR Code gerado na etapa anterior. A cor de preenchimento do código é preta e a cor de fundo é branca.
 
+# img.save('qr_code.png'): salva a imagem do QR Code em um arquivo chamado "qr_code.png".
 
 
 
